@@ -3932,5 +3932,2922 @@
             "reshashc": "f4feb820f9a814726c3972dd69e590a8",
             "resource": "Spartan.png"
         },
+        {
+            "author": "mayaBakuma",
+            "climbresource": "Linheadset_climb.png",
+            "condition": "None",
+            "flipresource": "Linheadset_flip",
+            "name": "Lin headset",
+            "package": "Community Hats",
+            "reshasha": "c7f8e69309e50e84c17d25891b0ec619",
+            "reshashc": "569dea3dbd3975c52a51475272599ef7",
+            "reshashf": "c7f8e69309e50e84c17d25891b0ec619",
+            "resource": "Linheadset.png"
+        },
+        {
+            "author": "mayaBakuma",
+            "climbresource": "NOGbag_climb.png",
+            "condition": "None",
+            "flipresource": "NOGbag_flip.png",
+            "name": "noga's bag",
+            "package": "Community Hats",
+            "reshasha": "a7401561f7b6738e1a51638a46e3e32c",
+            "reshashc": "769d7941718bd6774823b051394aacbe",
+            "reshashf": "a7401561f7b6738e1a51638a46e3e32c",
+            "resource": "NOGbag.png"
+        },
+        {
+            "author": "mayaBakuma",
+            "climbresource": "monomiINU_climb.png",
+            "condition": "None",
+            "flipresource": "monomiINU_flip.png",
+            "name": "monomiINU",
+            "package": "Community Hats",
+            "reshasha": "58d2c3c972594a975340a4ae851889d6",
+            "reshashc": "332b258801df764f944faedd70c42c3e",
+            "reshashf": "58d2c3c972594a975340a4ae851889d6",
+            "resource": "monomiINU.png"
+        },
+        {
+            "adaptive": true,
+            "author": "noga",
+            "climbresource": "UFO_adaptive_climb.png",
+            "condition": "None",
+            "flipresource": "maniacnog_flip",
+            "name": "maniac nog",
+            "package": "Community Hats",
+            "reshasha": "75f17ec6505ef5e40eb2da1b1dd1f516",
+            "reshashc": "ed82c66ab75e28de1c97c8f1b76186b6",
+            "reshashf": "75f17ec6505ef5e40eb2da1b1dd1f516",
+            "resource": "maniacnog.png"
+        },
+        {
+            "author": "Lino Ron",
+            "climbresource": "Eliran_climb.png",
+            "condition": "None",
+            "name": "Eliran",
+            "package": "Community Hats",
+            "reshasha": "005a309b41291ebd490f90c9a1be8df4",
+            "reshashc": "daf6b94ead904f31f570aebcd6e4149b",
+            "resource": "Eliran.png"
+        },
+        {
+            "adaptive": true,
+            "author": "mayabakuma",
+            "climbresource": "TeddyBearDaniel_Climb.png",
+            "condition": "None",
+            "name": "daniel's teddy",
+            "package": "Community Hats",
+            "reshasha": "cf47b95d7d91cc90ab032ba6c653399f",
+            "reshashc": "fdca173e6163fcd1d4a7b4417e2eb424",
+            "resource": "TeddyBearDaniel_adaptive.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "sett_Climb.png",
+            "condition": "None",
+            "name": "Sett",
+            "package": "Community Hats",
+            "reshasha": "05c131887dfcb2bceafdf16eec0c8dc2",
+            "reshashc": "f545db852849cb2126ab3811a4589abc",
+            "resource": "sett.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "Nyancat_climb.png",
+            "condition": "None",
+            "flipresource": "nyancat_flip",
+            "name": "nyan cat",
+            "package": "Community Hats",
+            "reshasha": "0999a3cc8431818a8c46e728fc867729",
+            "reshashc": "b7426f5cef5bee26bb3ab167f23ad440",
+            "reshashf": "0999a3cc8431818a8c46e728fc867729",
+            "resource": "nyancat.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "goofy_climb.png",
+            "condition": "None",
+            "flipresource": "goofy_flip",
+            "name": "goofy",
+            "package": "Community Hats",
+            "reshasha": "9f57537d9115132e6c36de748cc76ef5",
+            "reshashc": "45ad9501bae6b2de9935c110b12da651",
+            "reshashf": "9f57537d9115132e6c36de748cc76ef5",
+            "resource": "goofy.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "monokuma_climb.png",
+            "condition": "None",
+            "flipresource": "monokuma_flip",
+            "name": "monokuma",
+            "package": "Community Hats",
+            "reshasha": "7b9e9050f5d7f57c9e7d4a4dac54a187",
+            "reshashc": "5ec6ea15171bd97a91fc2fd0b84c196c",
+            "reshashf": "7b9e9050f5d7f57c9e7d4a4dac54a187",
+            "resource": "monokuma.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "BirthdayHat_climb.png",
+            "condition": "None",
+            "name": "Birthday Hat",
+            "package": "Community Hats",
+            "reshasha": "76fdb8e9415fed4fe8f16fffad5bd207",
+            "reshashc": "1e57e3b9051b7987e2df050cadc2af44",
+            "resource": "BirthdayHat.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "Viegar_climb.png",
+            "condition": "None",
+            "name": "Viegar",
+            "package": "Community Hats",
+            "reshasha": "515e9adac559c9506c35a79b33452a8e",
+            "reshashc": "853575f52b730f397332a5446534ac50",
+            "resource": "Viegar.png"
+        },
+        {
+            "author": "mayabakuma",
+            "climbresource": "katarina_climb.png",
+            "condition": "None",
+            "name": "katarina",
+            "package": "Community Hats",
+            "reshasha": "0429839ad29c3bd2b9f9e3f81005229d",
+            "reshashc": "1737b5e32ebb988e61ed68a483e211c1",
+            "resource": "katarina.png"
+        },
+        { 
+           "author": "mayabakuma",
+            "climbresource": "ipad_climb.png",
+            "condition": "None",
+            "name": "ipad kid",
+            "package": "Community Hats",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "resource": "ipad.png"
+        },
+        { 
+           "author": "mayabakuma",
+            "climbresource": "ipad_climb.png",
+            "condition": "None",
+            "name": "ipad kid",
+            "package": "Community Hats",
+            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
+            "resource": "ipad.png"
+        },
+        {
+            "author": "Sou",
+            "climbresource": "Sou_climb.png",
+            "condition": "None",
+            "name": "Sou",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Sou.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Kanna_climb.png",
+            "condition": "None",
+            "name": "Kanna",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Kanna.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Layton_climb.png",
+            "condition": "None",
+            "name": "Layton",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Layton.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Luke_climb.png",
+            "condition": "None",
+            "name": "Luke",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Luke.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Godot_climb.png",
+            "condition": "None",
+            "name": "Godot",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Godot.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Murmure_climb.png",
+            "condition": "None",
+            "name": "Murmure",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Murmure.png"
+        },
+         {
+            "author": "Sou",
+            "climbresource": "Elea_climb.png",
+            "condition": "None",
+            "name": "Elea",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Elea.png"
+        },
+       {
+            "author": "Sou",
+            "climbresource": "Justin_climb.png",
+            "condition": "None",
+            "name": "Justin",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Justin.png"
+        }, 
+        {
+            "author": "Sou",
+            "climbresource": "Supreme_climb.png",
+            "condition": "None",
+            "name": "Supreme Leader",
+            "package": "Community Hats",
+            "reshasha": "99b2c94e74b8937e74ff8c8012db41cc",
+            "reshashc": "f4feb820f9a814726c3972dd69e590a8",
+            "resource": "Supreme.png"
+        }, 
+         {
+            "author": "Sou",
+            "climbresource": "Space_Climb.png",
+            "condition": "None",
+            "name": "Gyaxa",
+            "package": "Community Hats",
+            "reshasha": "911d852737795f59c6d0eaddfa39a540",
+            "reshashc": "aae4af23b58d91de93c12048250e3126",
+            "resource": "Space.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Blood Rogue",
+            "package": "Community Hats",
+            "reshasha": "8a784a32c84822149818129f76018816",
+            "reshashf": "ebc64eca285326318d437807c1da72a1",
+            "resource": "saborhatblood.png",
+            "flipresource": "saborhatblood_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Bryoo",
+            "package": "Community Hats",
+            "reshasha": "274050faaa8e73c2cfdfb00f2934772c",
+            "reshashf": "e81110e459731d61d17a5fea41abe104",
+            "resource": "saborhatbryoo.png",
+            "flipresource": "saborhatbryoo_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Markus",
+            "package": "Community Hats",
+            "reshasha": "323c1eb70d4e00a344985472bbeb5897",
+            "resource": "saborhatmarkus.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Mishka",
+            "package": "Community Hats",
+            "reshasha": "cd230d5ebd804b512f38cc2460cbaf5e",
+            "resource": "saborhatmishka.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Nymos",
+            "package": "Community Hats",
+            "reshasha": "c5309e65410044572393df14478caee6",
+            "reshashf": "053e0c6231d3d1f73b38728c07e6e250",
+            "resource": "saborhatnymos.png",
+            "flipresource": "saborhatnymos_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Orion",
+            "package": "Community Hats",
+            "reshasha": "5f289cb94fdb2aecf8ea34b448d9fcc7",
+            "resource": "saborhatorion.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Potao",
+            "package": "Community Hats",
+            "reshasha": "ad3362c5637bd684b6836d35ca89be7f",
+            "reshashf": "3a1ccf2010958841bb53a54fd19de4ab",
+            "resource": "saborhatpotao.png",
+            "flipresource": "saborhatpotao_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Yves",
+            "package": "Community Hats",
+            "reshasha": "5d3252820cf3294b2f3a7486f3833bc2",
+            "resource": "saborhatyves.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Zerda",
+            "package": "Community Hats",
+            "reshasha": "862727fae251446dc7c90f8114696db4",
+            "resource": "saborhatzerda.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Apollo",
+            "package": "Community Hats",
+            "reshasha": "35b6c57fdd38fad117beb34f8b548dc8",
+            "reshashf": "87d438bdd6aec2891a58b28b32be98bb",
+            "resource": "saborhatapollo.png",
+            "flipresource": "saborhatapollo_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Ghost",
+            "package": "Community Hats",
+            "reshasha": "21832f5e6e9c3391ef13f83b60221465",
+            "resource": "saborhatghost.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Neon",
+            "package": "Community Hats",
+            "reshasha": "5ace2fb548d21d365edbeff7cdccf453",
+            "resource": "saborhatneon.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Pockets",
+            "package": "Community Hats",
+            "reshasha": "89f2d939b8971f81c5a54195b1379e56",
+            "resource": "saborhatpockets.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Snarg",
+            "package": "Community Hats",
+            "reshasha": "bc9832bff5b0cd0eaa46dfbf1fbbed61",
+            "resource": "saborhatsnarg.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Abbi Hat",
+            "package": "Community Hats",
+            "adaptive": true,
+            "reshasha": "edb9145bb1024f7fdb5d3a224ecc3bdb",
+            "resource": "saborhatabbi.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Doki",
+            "package": "Community Hats",
+            "reshasha": "dd8356c372c94861c49695de6c18c10a",
+            "resource": "saborhatdoki.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Morado",
+            "package": "Community Hats",
+            "reshasha": "d9dc9fca85d02fd47d3c49ea50ff15eb",
+            "reshashf": "a87fcfd917cee86963f5c2a6ffeb921e",
+            "resource": "saborhatmorado.png",
+            "flipresource": "saborhatmorado_flip.png"
+        },
+        {
+            "author": "Sabortoof Teegar",
+            "condition": "None",
+            "name": "Wiktoria",
+            "package": "Community Hats",
+            "reshasha": "826ef61794c7683b6c2b5762c9fe6165",
+            "reshashf": "b9bc348de7f2a5b3fefe2f746a53a208",
+            "resource": "saborhatwiktoria.png",
+            "flipresource": "saborhatwiktoria_flip.png"
+        },
+        {
+            "author": "TheLastShaymin",
+            "name": "annamaja hat",
+            "package": "Community Hats",
+            "reshasha": "0e6474a60515e9114967f0b0f478f633",
+            "resource": "hats0000.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "zylus hat",
+            "package": "Community Hats",
+            "reshasha": "2af92eda54d0af6f6d0e355f76bbb364",
+            "resource": "hats0001.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "anniefuschia hat",
+            "package": "Community Hats",
+            "reshasha": "8e009650208e5510e52fb9d99010b989",
+            "resource": "hats0002.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "aphex hat",
+            "package": "Community Hats",
+            "reshasha": "8c6d474b88478f6029dae24f2ef758fa",
+            "resource": "hats0003.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "aplatypuss hat",
+            "package": "Community Hats",
+            "reshasha": "b218b60f76309be9c8acfc12a381205d",
+            "resource": "hats0004.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "asexual hat",
+            "package": "Community Hats",
+            "reshasha": "96e24ff7ea45ad9bc2d85de971f3bcdd",
+            "resource": "hats0005.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ash_1 hat",
+            "package": "Community Hats",
+            "reshasha": "b164f250b2ce89dacc3f394c9b2f7470",
+            "resource": "hats0006.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ash_1 hat flipped",
+            "package": "Community Hats",
+            "reshasha": "b68cceb5a3516ce784814aca55bb9f1f",
+            "resource": "hats0007.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "axilla hat",
+            "package": "Community Hats",
+            "reshasha": "949c5c27a9a544f0cf980abe031aa331",
+            "resource": "hats0008.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ben hat",
+            "package": "Community Hats",
+            "reshasha": "67b8c9b4e5b47a18b4cedd7bf9908b3f",
+            "resource": "hats0009.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "besty hat",
+            "package": "Community Hats",
+            "reshasha": "d05f4f13a5ce7818fb37d7a65a0aebb6",
+            "resource": "hats0010.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "bisexual hat",
+            "package": "Community Hats",
+            "reshasha": "0ee1e64113d97614f33d442001df613e",
+            "resource": "hats0011.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "bloody hat",
+            "package": "Community Hats",
+            "reshasha": "52256b0bc32fd43aa66a9b48cab3c89c",
+            "resource": "hats0012.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "boba hat",
+            "package": "Community Hats",
+            "reshasha": "fec8e451925b0e4b8a8591153819a622",
+            "resource": "hats0013.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "breeh hat",
+            "package": "Community Hats",
+            "reshasha": "d494e34dfdc8bd39716902cfa1ed714b",
+            "resource": "hats0014.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "brittzey hat",
+            "package": "Community Hats",
+            "reshasha": "45fd24c34a1e035fbe320ea0a5548dc5",
+            "resource": "hats0015.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "cheesy hat",
+            "package": "Community Hats",
+            "reshasha": "12c725a95593a3da0bb150176b54ab6c",
+            "resource": "hats0016.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "chilledchaos hat",
+            "package": "Community Hats",
+            "reshasha": "f44dfb2935f9671c2fc5b41db0d7cb57",
+            "resource": "hats0017.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "clara hat",
+            "package": "Community Hats",
+            "reshasha": "7f7ddea97c258dea7925b2c6d3b79c60",
+            "resource": "hats0018.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "dawko hat",
+            "package": "Community Hats",
+            "reshasha": "d5e51198f16efd50ca4842b546e3fa48",
+            "resource": "hats0019.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "dizzilulu hat",
+            "package": "Community Hats",
+            "reshasha": "4f8c68dba6d6e26134491aa4e6dbeafc",
+            "resource": "hats0020.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "duncan hat",
+            "package": "Community Hats",
+            "reshasha": "8765c24a2995e245856de13bf9ec23ce",
+            "resource": "hats0021.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "dyto hat",
+            "package": "Community Hats",
+            "reshasha": "b3cbeaeef5aeac0a93990d089e85b161",
+            "resource": "hats0022.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ellum hat",
+            "package": "Community Hats",
+            "reshasha": "429ac42e8daa24a92f020b8f3297de5e",
+            "resource": "hats0023.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "falcone_1 hat",
+            "package": "Community Hats",
+            "reshasha": "db308438d2e0320d0cd3758d887f9bc9",
+            "resource": "hats0024.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "freyzplayz hat",
+            "package": "Community Hats",
+            "reshasha": "7a8aed7c608caf9b28ab6310bbdb9e3f",
+            "resource": "hats0025.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "garbage hat",
+            "package": "Community Hats",
+            "reshasha": "6f7cac7eb882eea464b8d047524e6819",
+            "resource": "hats0026.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "gay hat",
+            "package": "Community Hats",
+            "reshasha": "2af830297b66d0350e6567b7f68f6a16",
+            "resource": "hats0027.png"
+          },
+          {
+            "author": "PhasmoFireGod",
+            "name": "glitch hat",
+            "package": "Community Hats",
+            "reshasha": "8cd0e9d45a55b5430c06625006fc5833",
+            "resource": "hats0028.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "harrie hat",
+            "package": "Community Hats",
+            "reshasha": "4822f1bf51986a7a6a0dd3dec8f9e00d",
+            "resource": "hats0029.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "jamobo hat",
+            "package": "Community Hats",
+            "reshasha": "68cad9a244890a8bdf0ad2377b3bea47",
+            "resource": "hats0030.png"
+          },
+          {
+            "author": "Ressnie",
+            "name": "jose hat",
+            "package": "Ressnie Hats",
+            "reshasha": "b046883757f52d1e21add41797480c06",
+            "resource": "hats0031.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "junkyard hat",
+            "package": "Community Hats",
+            "reshasha": "b6e0d90f931fa8539b5ce70cf260a8bd",
+            "resource": "hats0032.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "justjames hat",
+            "package": "Community Hats",
+            "reshasha": "2a78149d4823d462e5f67f33ee9094c5",
+            "resource": "hats0033.png"
+          },
+          {
+            "author": "Ressnie",
+            "name": "kara hat",
+            "package": "Ressnie Hats",
+            "reshasha": "3cd80ed01959b73effd6e1ee0842178f",
+            "resource": "hats0034.png"
+          },
+          {
+            "author": "PhasmoFireGod",
+            "name": "mama hat",
+            "package": "Community Hats",
+            "reshasha": "9f24d61bb892e486e000f935b37c883e",
+            "resource": "hats0035.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "kay hat",
+            "package": "Community Hats",
+            "reshasha": "dc52360170cfb66e5afe15505177265c",
+            "resource": "hats0036.png"
+          },
+          {
+            "author": "LaWhooligan",
+            "name": "lawhoo hat",
+            "package": "LaWhooligan Hats",
+            "reshasha": "d1c6d6087ef64b9a227afd610fd108bf",
+            "resource": "hats0037.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "lewis hat",
+            "package": "Community Hats",
+            "reshasha": "9ce01193a098cf708eae2f508c7001a6",
+            "resource": "hats0038.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "lexiemarie hat",
+            "package": "Community Hats",
+            "reshasha": "0b24c77e643727b7d8f888340e6e8592",
+            "resource": "hats0039.png"
+          },
+          {
+            "author": "Ressnie",
+            "name": "mindy hat",
+            "package": "Ressnie Hats",
+            "reshasha": "a00a277d4f19e4f23bed2961c3ec5cbe",
+            "resource": "hats0040.png"
+          },
+          {
+            "author": "Taamoy",
+            "name": "nerdout hat",
+            "package": "Taamoy Hats",
+            "reshasha": "0ac3f2978f4cf9d258f29de482dca58f",
+            "resource": "hats0041.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "nilesy hat",
+            "package": "Community Hats",
+            "reshasha": "6ff1a9deb62a7d491d46f30a2aa37d99",
+            "resource": "hats0042.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "nonbinary hat",
+            "package": "Community Hats",
+            "reshasha": "fa16be2efd357b0e21846aaeea1abab9",
+            "resource": "hats0043.png"
+          },
+          {
+            "author": "Ressnie",
+            "name": "ozza hat",
+            "package": "Ressnie Hats",
+            "reshasha": "14a080efa9e26a92e63d1b0aab883b05",
+            "resource": "hats0044.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "pansexual hat",
+            "package": "Community Hats",
+            "reshasha": "69b737bd4f39045e749f75c97804d535",
+            "resource": "hats0045.png"
+          },
+          {
+            "author": "Ressnie",
+            "name": "pastaroni hat",
+            "package": "Ressnie Hats",
+            "reshasha": "5cf3f64a16faaebfe693d97d6e73c62d",
+            "resource": "hats0046.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ped hat",
+            "package": "Community Hats",
+            "reshasha": "d4a3f6d753457c715968bffdfd49fdcf",
+            "resource": "hats0047.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "phoebe hat",
+            "package": "Community Hats",
+            "reshasha": "e307020c5269b58d33929ba754b95610",
+            "resource": "hats0048.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ravs hat",
+            "package": "Community Hats",
+            "reshasha": "d1ef444901ce37fa2c429881e3f1456d",
+            "resource": "hats0049.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "razzbowski hat",
+            "package": "Community Hats",
+            "reshasha": "ff10ef6e3095ca5fa2e6b8958e8298c9",
+            "resource": "hats0050.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "rhythian hat",
+            "package": "Community Hats",
+            "reshasha": "aa3a52e388321693b628509d433bc6f1",
+            "resource": "hats0051.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "shubble hat",
+            "package": "Community Hats",
+            "reshasha": "5c4bac310f6da278bd445793f8ec5e7d",
+            "resource": "hats0052.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "sips hat",
+            "package": "Community Hats",
+            "reshasha": "2cb93b67ec3fcf6ce01405bda180cb1e",
+            "resource": "hats0053.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "stumpy hat",
+            "package": "Community Hats",
+            "reshasha": "b3f49799775ed5dab6c0a4364975ad91",
+            "resource": "hats0054.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "toby hat",
+            "package": "Community Hats",
+            "reshasha": "b8f55fea0b748ebdbebaa8ce043b653a",
+            "resource": "hats0055.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "tomcraven hat",
+            "package": "Community Hats",
+            "reshasha": "8d02a14b157590583d1ab304b9e491ea",
+            "resource": "hats0056.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "trans_1 hat",
+            "package": "Community Hats",
+            "reshasha": "f7f15ecdd94cb6df30d4fdf1b4373a7a",
+            "resource": "hats0057.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "trans_2 hat",
+            "package": "Community Hats",
+            "reshasha": "c2bbd14b76e32e1c1c5fbce1f54dff3e",
+            "resource": "hats0058.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "trans_3 hat",
+            "package": "Community Hats",
+            "reshasha": "0e4237da3e004aea6b97fcb21712eebd",
+            "resource": "hats0059.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "trans_4 hat",
+            "package": "Community Hats",
+            "reshasha": "d18d0ba8392a7f7cc7a47e5813a7b964",
+            "resource": "hats0060.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "vikram_1 hat",
+            "package": "Community Hats",
+            "reshasha": "10408e77037fec90fb865766c4e0d483",
+            "resource": "hats0061.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "vikram_2 hat",
+            "package": "Community Hats",
+            "reshasha": "5d0bb903f5570ad7f7420007e5173875",
+            "resource": "hats0062.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "wolfabelle hat",
+            "package": "Community Hats",
+            "reshasha": "e2198053dc071427c11bb9635d9968a6",
+            "resource": "hats0063.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "zeroyalviking hat",
+            "package": "Community Hats",
+            "reshasha": "649c5d6b3a4895695513f693c024c5e7",
+            "resource": "hats0064.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "falcone hat",
+            "package": "Community Hats",
+            "reshasha": "6f4565811f5f6b52ff40bdf8182ae0a7",
+            "resource": "hats0065.png"
+          },
+          {
+            "author": "PhasmoFireGod",
+            "name": "pinkee hat",
+            "package": "Community Hats",
+            "reshasha": "3e4cfe8aa0a34fb3fb9479354c2ba58f",
+            "resource": "hats0066.png"
+          },
+          {
+            "author": "PhasmoFireGod",
+            "name": "racoon hat",
+            "package": "Community Hats",
+            "reshasha": "83b07109ec1b1da158d45d4ad730e822",
+            "resource": "hats0067.png"
+          },
+          {
+            "author": "PhasmoFireGod",
+            "name": "firegod hat",
+            "package": "Community Hats",
+            "reshasha": "73cd1ca867096c61381064cc569e3799",
+            "resource": "hats0068.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "slushie hat",
+            "package": "Community Hats",
+            "reshasha": "4eb5ef0f5e3034d260e52cce4942537f",
+            "resource": "hats0069.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "dad hat",
+            "package": "Community Hats",
+            "reshasha": "4c08bcc45cf3ad4d017170cf176eef14",
+            "resource": "hats0070.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "platty halloween hat",
+            "package": "Community Hats",
+            "reshasha": "46f1e0bd392e4cc308010c4908510bda",
+            "resource": "hats0071.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "cheesy halloween hat",
+            "package": "Community Hats",
+            "reshasha": "337fe841162699f928c062e4cf44efd5",
+            "resource": "hats0072.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "chilled halloween hat",
+            "package": "Community Hats",
+            "reshasha": "b5bbe978445e2577c97bad0816fa77b8",
+            "resource": "hats0073.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "zeroyalviking halloween hat",
+            "package": "Community Hats",
+            "reshasha": "97d28a3b0d089c93b6577d0e8f7b39b3",
+            "resource": "hats0074.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "fox hat",
+            "package": "Community Hats",
+            "reshasha": "6b82e61668d9a22c3b392b69cdb21828",
+            "resource": "hats0075.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "frog hat",
+            "package": "Community Hats",
+            "reshasha": "c821d6ede2b7a03f4880d9cac7758899",
+            "resource": "hats0076.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "pig hat",
+            "package": "Community Hats",
+            "reshasha": "13be9457a9c447aca4239351103181cc",
+            "resource": "hats0077.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "owl hat",
+            "package": "Community Hats",
+            "reshasha": "4ac9696c41ac9a5a59fa34fedb3ad748",
+            "resource": "hats0078.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "witch hat",
+            "package": "Community Hats",
+            "reshasha": "d713962810704a6f5e97fae29779ed45",
+            "resource": "hats0079.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "goldfish hat",
+            "package": "Community Hats",
+            "reshasha": "de36f9bfbd752a933d82448745391f83",
+            "resource": "hats0080.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "ctulhu hat",
+            "package": "Community Hats",
+            "reshasha": "a48f3fce1130653404966f79e4f92958",
+            "resource": "hats0081.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "spider hat",
+            "package": "Community Hats",
+            "reshasha": "06cb02e9b6ed72caa4974eb351204d28",
+            "resource": "hats0082.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "crocodile hat",
+            "package": "Community Hats",
+            "reshasha": "5a7e9448484a8358a0ecde45b567ddaf",
+            "resource": "hats0083.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "A Knoife! hat",
+            "package": "Community Hats",
+            "reshasha": "3e8d13e580bcc366df23aab2e65bf3a5",
+            "resource": "hats0084.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Blush-stache hat",
+            "package": "Community Hats",
+            "reshasha": "93e950dafb969c8b242a1b4d49d15b65",
+            "resource": "hats0085.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "BTW hat",
+            "package": "Community Hats",
+            "reshasha": "437785debe8694513ca00917adf43e23",
+            "resource": "hats0086.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Flower Fedora hat",
+            "package": "Community Hats",
+            "reshasha": "9acd475ede308af7b54c4a2231d50d1f",
+            "resource": "hats0087.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Gigawolf hat",
+            "package": "Community Hats",
+            "reshasha": "f697bb097d1cf3ea60f352dc4d8d6c28",
+            "resource": "hats0088.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Good Aura hat",
+            "package": "Community Hats",
+            "reshasha": "072295f4c36c0eba666976cafcb22ff7",
+            "resource": "hats0089.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Guardian Angel hat",
+            "package": "Community Hats",
+            "reshasha": "76bf22e3f7da189cb6c1c3f46852eb1a",
+            "resource": "hats0090.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Horned Angel hat",
+            "package": "Community Hats",
+            "reshasha": "753c627b9b59b9f0db9f5646686ac69d",
+            "resource": "hats0091.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Kartodk Evil hat",
+            "package": "Community Hats",
+            "reshasha": "0d3a1276a94a22a64c9fcb43314f448e",
+            "resource": "hats0092.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Kartodk Sus hat",
+            "package": "Community Hats",
+            "reshasha": "de71b7b6633206800bf844a28ec3f498",
+            "resource": "hats0093.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Lavish hat",
+            "package": "Community Hats",
+            "reshasha": "dfd85564f3ba0bb3bd3bd0010a94aca7",
+            "resource": "hats0094.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Lie-canthrope hat",
+            "package": "Community Hats",
+            "reshasha": "f2f4ed88b80185eab162d9b2925a2781",
+            "resource": "hats0095.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Overgrown hat",
+            "package": "Community Hats",
+            "reshasha": "7e837169b42078bcb49e06576f4934de",
+            "resource": "hats0096.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Press X hat",
+            "package": "Community Hats",
+            "reshasha": "4421e8dedc37e7d3db3c103f3d80f919",
+            "resource": "hats0097.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Rico\u0027s Navy hat",
+            "package": "Community Hats",
+            "reshasha": "f29d72fd0e3e1d09fd64b7fb467271df",
+            "resource": "hats0098.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Sav Beanie hat",
+            "package": "Community Hats",
+            "reshasha": "f04541b9789c50b4285b01a1ac900317",
+            "resource": "hats0099.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Sparkles! hat",
+            "package": "Community Hats",
+            "reshasha": "28d02b189323bebcfb5210f77b256822",
+            "resource": "hats0100.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Specs n\u0027 Antlers hat",
+            "package": "Community Hats",
+            "reshasha": "bc401950162f38d4ef6339bc4470e44e",
+            "resource": "hats0101.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Stylish Witch hat",
+            "package": "Community Hats",
+            "reshasha": "4c71db864944ea3b646fadfc339cc204",
+            "resource": "hats0102.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Tropic Beach hat",
+            "package": "Community Hats",
+            "reshasha": "cbe11db9e861df3b8a9c2b9f937ecc0f",
+            "resource": "hats0103.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "ash_2 hat",
+            "package": "Community Hats",
+            "reshasha": "6ef19ea7246f8b203030731d3ef14ee1",
+            "resource": "hats0104.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "blood_bourne_hat",
+            "package": "Community Hats",
+            "reshasha": "aafe376ba88a6512ea5c9ac6c6f77013",
+            "resource": "hats0105.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "goku_hat",
+            "package": "Community Hats",
+            "reshasha": "2dc8eae4ffc9e874772ca86bc30e8143",
+            "resource": "hats0106.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "queenie_hat",
+            "package": "Community Hats",
+            "reshasha": "794dbc971f9aa40ddaff50fe4d842f55",
+            "resource": "hats0107.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "tissue_box_hat",
+            "package": "Community Hats",
+            "reshasha": "8bb9861b494b8692dfc19a6cc7c7b049",
+            "resource": "hats0108.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "your_mom_hat",
+            "package": "Community Hats",
+            "reshasha": "fe8551b5ee46af5ff5fa5d462253568c",
+            "resource": "hats0109.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "mantis_shrimpling_hat",
+            "package": "Community Hats",
+            "reshasha": "a06169114cba1137e2c8e5a6dc59859f",
+            "resource": "hats0110.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "luffy_hat",
+            "package": "Community Hats",
+            "reshasha": "405e5cf5163ac53667032802b7563fda",
+            "resource": "hats0111.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "carnage_hat",
+            "package": "Community Hats",
+            "reshasha": "c9ad77ec05c61e57e9a84ab90cc84549",
+            "resource": "hats0112.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "stebon_hat",
+            "package": "Community Hats",
+            "reshasha": "e9d4e11316d30ce7254b107bf72eeb8e",
+            "resource": "hats0113.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "harley_quinn_hat",
+            "package": "Community Hats",
+            "reshasha": "f8b83344cecc4a8707765318efd17aa1",
+            "resource": "hats0114.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "weasel_hat",
+            "package": "Community Hats",
+            "reshasha": "a51939d1f9d2ca5b8034e88dfe310f12",
+            "resource": "hats0115.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "dino_egg_hat",
+            "package": "Community Hats",
+            "reshasha": "c47669bab93290c0d7c1f1cbdc828dbd",
+            "resource": "hats0116.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "skater_girl_hat",
+            "package": "Community Hats",
+            "reshasha": "2acfdcfd2a64d0968afd16bd5ee15c9a",
+            "resource": "hats0117.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "sims_hat",
+            "package": "Community Hats",
+            "reshasha": "1355479e5f833fd8100cf741cf9dd8d4",
+            "resource": "hats0118.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "shrimp_hat",
+            "package": "Community Hats",
+            "reshasha": "ae38b2e5ac7914409daf43862b006637",
+            "resource": "hats0119.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "pepe_hat",
+            "package": "Community Hats",
+            "reshasha": "fd0de57956d4b5f774c30ad7346ba3d5",
+            "resource": "hats0120.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "dwarf hat",
+            "package": "Community Hats",
+            "reshasha": "520b47e3a46641d6fa42cf33e896b447",
+            "resource": "hats0121.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "rooster hat",
+            "package": "Community Hats",
+            "reshasha": "397225018f14f82ae7301a0a48609da8",
+            "resource": "hats0122.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "monster hat",
+            "package": "Community Hats",
+            "reshasha": "17f82da38e388a6113ddb16812a3416b",
+            "resource": "hats0123.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Cyreni\u0027s Pony hat",
+            "package": "Community Hats",
+            "reshasha": "2aefd694b946e41ab34941a909be165f",
+            "resource": "hats0124.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Oreos hat",
+            "package": "Community Hats",
+            "reshasha": "b32be3dd90b86957257041d518429fd7",
+            "resource": "hats0125.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Soyciety hat",
+            "package": "Community Hats",
+            "reshasha": "fd83a949026080a305949d1e9dfdbcd5",
+            "resource": "hats0126.png"
+          },
+          {
+            "author": "Tsed",
+            "name": "Tsedtacle hat",
+            "package": "Community Hats",
+            "reshasha": "cb0da485ce14586f1e05d4a8a803ff5f",
+            "resource": "hats0127.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Big Shot hat",
+            "package": "Community Hats",
+            "reshasha": "b6785f3dec63604d91098f35cf12c038",
+            "resource": "hats0128.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "L hat",
+            "package": "Community Hats",
+            "reshasha": "0fffee33bc1c4ad8a6f9c098339424c4",
+            "resource": "hats0129.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Menacing hat",
+            "package": "Community Hats",
+            "reshasha": "864ecf5465c22a11814b873e7235c27f",
+            "resource": "hats0130.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "No U hat",
+            "package": "Community Hats",
+            "reshasha": "c11a1db1cbf13bc5083fc4e5be75a1ce",
+            "resource": "hats0131.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Okey hat",
+            "package": "Community Hats",
+            "reshasha": "a067444b9dfff74869718fd2f7fd8e22",
+            "resource": "hats0132.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "sans hat",
+            "package": "Community Hats",
+            "reshasha": "25a850b025a4c76e21a248e0d220ec25",
+            "resource": "hats0133.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Squid hat",
+            "package": "Community Hats",
+            "reshasha": "f17d12a10f0d038ac603989e287678f2",
+            "resource": "hats0134.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Wimpy Kid hat",
+            "package": "Community Hats",
+            "reshasha": "c70b57bdff64bc49c87c5919dbe76c22",
+            "resource": "hats0135.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Cros Style hat",
+            "package": "Community Hats",
+            "reshasha": "a07f6c22edbe7bb7c6227fb10e695333",
+            "resource": "hats0136.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Novasauros hat",
+            "package": "Community Hats",
+            "reshasha": "224a7051d53e17cbcc843dffeff40a8e",
+            "resource": "hats0137.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Peppercorny hat",
+            "package": "Community Hats",
+            "reshasha": "27acc478e14ca21170b08679f00398bb",
+            "resource": "hats0138.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Rainy Day hat",
+            "package": "Community Hats",
+            "reshasha": "0fdfbf6e6a6afbd5de6ddbeb53d7f661",
+            "resource": "hats0139.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Scarf Gang hat",
+            "package": "Community Hats",
+            "reshasha": "42789937162dc788a5fdec993c5714a0",
+            "resource": "hats0140.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "So Devilish hat",
+            "package": "Community Hats",
+            "reshasha": "6086772146c57e4eca8f17a5bd8fa406",
+            "resource": "hats0141.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Huntress hat",
+            "package": "Community Hats",
+            "reshasha": "c150477661fd1ae9ae816ff71543dd1a",
+            "resource": "hats0142.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "You\u0027re so Salty! hat",
+            "package": "Community Hats",
+            "reshasha": "edcd3af88b6c0455ad49d38cbb526dac",
+            "resource": "hats0143.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "LayZFox hat",
+            "package": "Community Hats",
+            "reshasha": "413b70ab7ec34681d4f5320c6f71305d",
+            "resource": "hats0144.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Impostor Spark hat",
+            "package": "Community Hats",
+            "reshasha": "6b35c12dab98009fa534bef361bb398e",
+            "resource": "hats0145.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "X-Ray hat",
+            "package": "Community Hats",
+            "reshasha": "1345453ff24819991a61b91c640e2f45",
+            "resource": "hats0146.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Pap hat",
+            "package": "Community Hats",
+            "reshasha": "f49862ae9a80852df18581217a24f538",
+            "resource": "hats0147.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Cocoa hat",
+            "package": "Community Hats",
+            "reshasha": "b5217723ff483511c55c1411a55d2e52",
+            "resource": "hats0148.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Doused hat",
+            "package": "Community Hats",
+            "reshasha": "f2f5dbce83e790475d213cdaa92c4aa9",
+            "resource": "hats0149.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Fluffy Boi hat",
+            "package": "Community Hats",
+            "reshasha": "fd061b22fc2bd21548bc407b6cde4abf",
+            "resource": "hats0150.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Hot Saucy hat",
+            "package": "Community Hats",
+            "reshasha": "ec789ef70082687b67d2976d3801c255",
+            "resource": "hats0151.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "ImPAWstor hat",
+            "package": "Community Hats",
+            "reshasha": "88321cef16f306cc7634985da687451d",
+            "resource": "hats0152.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "MMMM hat",
+            "package": "Community Hats",
+            "reshasha": "2c04258de70d1a29502f28b9d0d5b01a",
+            "resource": "hats0153.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Bad Aura hat",
+            "package": "Community Hats",
+            "reshasha": "1350e25bef5b81f989964affd2542544",
+            "resource": "hats0154.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Dunce hat",
+            "package": "Community Hats",
+            "reshasha": "8dcecbc4e68091e7b7ee04f8b8be8000",
+            "resource": "hats0155.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Gay-ny Day hat",
+            "package": "Community Hats",
+            "reshasha": "6bfb75a2691900dd4326a50bd9f628eb",
+            "resource": "hats0156.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Marionette hat",
+            "package": "Community Hats",
+            "reshasha": "f7937252010096f14f44658193c2c9be",
+            "resource": "hats0157.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Random Ronnie hat",
+            "package": "Community Hats",
+            "reshasha": "fcb23b619008d9d2dfc263411bb62a11",
+            "resource": "hats0158.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Disconnected hat",
+            "package": "Community Hats",
+            "reshasha": "8a34c3c271d16dfd21cd50ab1eacc9e1",
+            "resource": "hats0159.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Lunch hat",
+            "package": "Community Hats",
+            "reshasha": "4cac7506034e540565a8dd673a578e35",
+            "resource": "hats0160.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Peace Never! hat",
+            "package": "Community Hats",
+            "reshasha": "2c1f02dbbcdbd2bd391008bc98862216",
+            "resource": "hats0161.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Amcam hat",
+            "package": "Community Hats",
+            "reshasha": "45ef5b1fad97102d16c0ffe18acc979d",
+            "resource": "hats0162.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Book Of Sus hat",
+            "package": "Community Hats",
+            "reshasha": "eb294f87363aae94000a7ef1dd7a0b7b",
+            "resource": "hats0163.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Caramilk hat",
+            "package": "Community Hats",
+            "reshasha": "7a640b7c423991d5b093ae1aacb2a438",
+            "resource": "hats0164.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DJSmiles hat",
+            "package": "Community Hats",
+            "reshasha": "2b42a8f1b7484061adc3da9ff423a19f",
+            "resource": "hats0165.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DrunkyPoo hat",
+            "package": "Community Hats",
+            "reshasha": "7b28f2195347d17b32c98ad844ee694e",
+            "resource": "hats0166.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "HoliGhost hat",
+            "package": "Community Hats",
+            "reshasha": "c4f5cc736797f35593bab0caf5b7df66",
+            "resource": "hats0167.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "ImpTongue hat",
+            "package": "Community Hats",
+            "reshasha": "2894257ed088cb0f63be2c11ebdd3eb8",
+            "resource": "hats0168.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Jessie hat",
+            "package": "Community Hats",
+            "reshasha": "b3947b6deb23fcc936adb754673d1fc2",
+            "resource": "hats0169.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "L hat",
+            "package": "Community Hats",
+            "reshasha": "a16756e9e1f4b9259820e5d0e0f861db",
+            "resource": "hats0170.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Paws hat",
+            "package": "Community Hats",
+            "reshasha": "35906e1abb8e793ec726060c445b282c",
+            "resource": "hats0171.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Potterhead hat",
+            "package": "Community Hats",
+            "reshasha": "71fc7d68879bc675ceec297e606b8a3e",
+            "resource": "hats0172.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Lil Swift hat",
+            "package": "Community Hats",
+            "reshasha": "92cfae77a19b63df95d1f07b029419a3",
+            "resource": "hats0173.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Sableye hat",
+            "package": "Community Hats",
+            "reshasha": "8f946a7c9210d42e50381c975db6a7bb",
+            "resource": "hats0174.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Sheriff hat",
+            "package": "Community Hats",
+            "reshasha": "ceb60548e8e06a76bf48c2f467d06c36",
+            "resource": "hats0175.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Steampunk hat",
+            "package": "Community Hats",
+            "reshasha": "39f70eb481270b409721eb08903e563e",
+            "resource": "hats0176.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Steampunk Look hat",
+            "package": "Community Hats",
+            "reshasha": "a48354d493a40ec5004a365a739a5ea2",
+            "resource": "hats0177.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Sushub hat",
+            "package": "Community Hats",
+            "reshasha": "c398b756214771b89ef8029f4103c8a3",
+            "resource": "hats0178.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Susotion hat",
+            "package": "Community Hats",
+            "reshasha": "c6d4e16123cfe1e5db759211d3c8a139",
+            "resource": "hats0179.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Bee hat",
+            "package": "Community Hats",
+            "reshasha": "ca4f2f8af1d46452a46b3feb30f43d46",
+            "resource": "hats0180.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "T-Rex hat",
+            "package": "Community Hats",
+            "reshasha": "006b0388e02c33151846ec4bce31577b",
+            "resource": "hats0181.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Maid hat",
+            "package": "Community Hats",
+            "reshasha": "beb63584f78468ec4a7f76ba322591f2",
+            "resource": "hats0182.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Koji hat",
+            "package": "Community Hats",
+            "reshasha": "bf4396baefaee53a30f3dd2e431ac3e4",
+            "resource": "hats0183.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Ellum hat",
+            "package": "Community Hats",
+            "reshasha": "6d5e7c900f1c6b1c46c1de3b68079c2c",
+            "resource": "hats0184.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Koji Maid hat",
+            "package": "Community Hats",
+            "reshasha": "7c7171547ff77e7638f70b150bb841bd",
+            "resource": "hats0185.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "jeremy hat",
+            "package": "Community Hats",
+            "reshasha": "3db5bca24017e6d2160d53d61c53b3ca",
+            "resource": "hats0186.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "kDoolz hat",
+            "package": "Community Hats",
+            "reshasha": "39d277cfb08a87c525e3aa9d9deda117",
+            "resource": "hats0187.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "tenma hat",
+            "package": "Community Hats",
+            "reshasha": "4c9fe664d43ef764855d58e193a098a4",
+            "resource": "hats0188.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "jukebox hat",
+            "package": "Community Hats",
+            "reshasha": "c858d9f8b6d8766ac3e6f1ef8585088b",
+            "resource": "hats0189.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "PK Fire hat",
+            "package": "Community Hats",
+            "reshasha": "20dbf494bdedf3c199e0b56bd78a07e7",
+            "resource": "hats0190.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Termy Boi hat",
+            "package": "Community Hats",
+            "reshasha": "111702d6c1d596e2dc5d7d08f5fbf80b",
+            "resource": "hats0191.png"
+          },
+          {
+            "author": "LayZ",
+            "name": "Tippy hat",
+            "package": "Community Hats",
+            "reshasha": "47e555ec974d825d13d7366fb934c177",
+            "resource": "hats0192.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Akatsuki hat",
+            "package": "Community Hats",
+            "reshasha": "514d7450316dab0fead5ac8acd683093",
+            "resource": "hats0193.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Bearded Grizzly hat",
+            "package": "Community Hats",
+            "reshasha": "4c458d2c9a0ce3a1544b12d84b975ebb",
+            "resource": "hats0194.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Dumbdog hat",
+            "package": "Community Hats",
+            "reshasha": "6fdf7d8ccaed37a34ff41b6441f05476",
+            "resource": "hats0195.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Eyeball hat",
+            "package": "Community Hats",
+            "reshasha": "0082d14c238b6bb81c3405f9148bf3ea",
+            "resource": "hats0196.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Friday Night Funkin hat 1",
+            "package": "Community Hats",
+            "reshasha": "02303a4889b3d8d115948f9f28e1f08a",
+            "resource": "hats0197.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Friday Night Funkin hat 2",
+            "package": "Community Hats",
+            "reshasha": "79402dba0e7066df3afbf34c719c2f6e",
+            "resource": "hats0198.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Jerm hat",
+            "package": "Community Hats",
+            "reshasha": "99822f9cf33a5493f5d26506d98b77f6",
+            "resource": "hats0199.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Milky Joe hat",
+            "package": "Community Hats",
+            "reshasha": "4a222682d9c8c5337b6d63c2f091579d",
+            "resource": "hats0200.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Monkeh hat",
+            "package": "Community Hats",
+            "reshasha": "3372649180ba3545d3e2e2b966a014f1",
+            "resource": "hats0201.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Pink hat",
+            "package": "Community Hats",
+            "reshasha": "016a2819b5541d0f885ba9743e7e418e",
+            "resource": "hats0202.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Sugarcat hat",
+            "package": "Community Hats",
+            "reshasha": "b3a262e5b48b47a3109e2139bcd02ad8",
+            "resource": "hats0203.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Zombie hat",
+            "package": "Community Hats",
+            "reshasha": "6c9923f28f67e7fadbfb78ee6a57b356",
+            "resource": "hats0204.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "Iron Man hat",
+            "package": "Community Hats",
+            "reshasha": "9b3965134221c69586cebb499e1d1af8",
+            "resource": "hats0205.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "Thanos hat",
+            "package": "Community Hats",
+            "reshasha": "9d51c27606af62571edf091a7c61c8c3",
+            "resource": "hats0206.png"
+          },
+          {
+            "author": "Ghost_ejims",
+            "name": "Side Arms hat",
+            "package": "Community Hats",
+            "reshasha": "2e0eeefbf571f8b84e2210e20dbe66a2",
+            "resource": "hats0207.png"
+          },
+          {
+            "author": "TheLastShaymin",
+            "name": "Kara hat 2",
+            "package": "Community Hats",
+            "reshasha": "5797717b4efc872b9c18e4ca14bca156",
+            "resource": "hats0208.png"
+          },
+          {
+            "author": "Bergmeister",
+            "name": "Bergmeister hat",
+            "package": "Bergmeister Hats",
+            "reshasha": "1df3baddf71b96cf6b64f09d47f6d256",
+            "resource": "hats0209.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Chrome hat",
+            "package": "Community Hats",
+            "reshasha": "0edeb949b90f6d9504b53bb77229c3b7",
+            "resource": "hats0210.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Dabi hat",
+            "package": "Community Hats",
+            "reshasha": "fef56e497908ba19c4070c88da4f025b",
+            "resource": "hats0211.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "James hat",
+            "package": "Community Hats",
+            "reshasha": "55413bcc6984c993a3b011691a709958",
+            "resource": "hats0212.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Meowth hat",
+            "package": "Community Hats",
+            "reshasha": "35c89d47fb25eb8fd0a8f5bff082f904",
+            "resource": "hats0213.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Mudkip hat",
+            "package": "Community Hats",
+            "reshasha": "01f9b9203079428beb98bc94a308308a",
+            "resource": "hats0214.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Patrick Jenner hat",
+            "package": "Community Hats",
+            "reshasha": "72a37ce9e392868f46c9122b0a07eb9d",
+            "resource": "hats0215.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Ravenclaw hat",
+            "package": "Community Hats",
+            "reshasha": "56a6de3caa6c8fe0bbd92e296d7dcb4a",
+            "resource": "hats0216.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Taxi hat",
+            "package": "Community Hats",
+            "reshasha": "b5872fed093a4c10154c754fecd7007f",
+            "resource": "hats0217.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "The Witcher hat",
+            "package": "Community Hats",
+            "reshasha": "1967fea659228ed57a68796290fd8dc5",
+            "resource": "hats0218.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Blue Dream hat",
+            "package": "Community Hats",
+            "reshasha": "a252f3910e2c6849f28b1c2743e995a7",
+            "resource": "hats0219.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "BrittanyP95 Treasure hat",
+            "package": "Community Hats",
+            "reshasha": "e93cce6e581cfe60badbdb0c0c65b033",
+            "resource": "hats0220.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Chibiusa hat",
+            "package": "Community Hats",
+            "reshasha": "dc9cab87af94439f2e0d88c077d42996",
+            "resource": "hats0221.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Cynda hat",
+            "package": "Community Hats",
+            "reshasha": "05b6fa339336ae40a3dea55b202edcb0",
+            "resource": "hats0222.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Chicky Tenders hat",
+            "package": "Community Hats",
+            "reshasha": "555eef8be14e470a86fe51b3b78e8d28",
+            "resource": "hats0223.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Chicky Tenders Sauce hat",
+            "package": "Community Hats",
+            "reshasha": "4d65186436c1c7614e5feb9e04853cd4",
+            "resource": "hats0224.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Demogorgan hat",
+            "package": "Community Hats",
+            "reshasha": "3290c5749d0f6d346ac48198d21be811",
+            "resource": "hats0225.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Detective hat",
+            "package": "Community Hats",
+            "reshasha": "83b9539352330a26c6e1fe3ea9b561d6",
+            "resource": "hats0226.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Fairy hat",
+            "package": "Community Hats",
+            "reshasha": "412b24318ca25ba7f527b6e71c2e3c16",
+            "resource": "hats0227.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "FengPJ hat",
+            "package": "Community Hats",
+            "reshasha": "b87a249c1fb733a4bf52fcda5f8a8b82",
+            "resource": "hats0228.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Freckled Phenom hat",
+            "package": "Community Hats",
+            "reshasha": "27f0c5eaaa94df8dc60aa1281a6bdee8",
+            "resource": "hats0229.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Golden Boi hat",
+            "package": "Community Hats",
+            "reshasha": "169cf05c2f381a496894f051f283cbed",
+            "resource": "hats0230.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Hold My Beer hat",
+            "package": "Community Hats",
+            "reshasha": "794c7cc6d057970d6d36572b9a4d37c8",
+            "resource": "hats0231.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Huntress hat",
+            "package": "Community Hats",
+            "reshasha": "5c64667398e051fe484a84f32b52f3fc",
+            "resource": "hats0232.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Kate hat",
+            "package": "Community Hats",
+            "reshasha": "0aa0e34b3cc959c5531250ac3824276a",
+            "resource": "hats0233.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Lil Too Much hat",
+            "package": "Community Hats",
+            "reshasha": "a2930047f8ff0d31cd7f9ba538d715f2",
+            "resource": "hats0234.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Liv Chipz Periodt hat",
+            "package": "Community Hats",
+            "reshasha": "ba666ff6c75208903bb529bfa5cbebf9",
+            "resource": "hats0235.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Mac Vibes hat",
+            "package": "Community Hats",
+            "reshasha": "97e6680b574dd700442d50c5b2037937",
+            "resource": "hats0236.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "McRib hat",
+            "package": "Community Hats",
+            "reshasha": "8ae050f2fb50f0a53d484b8920649206",
+            "resource": "hats0237.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Nurse hat",
+            "package": "Community Hats",
+            "reshasha": "e9d7691cb945b930d5fc97efd237a4ee",
+            "resource": "hats0238.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Periodt hat",
+            "package": "Community Hats",
+            "reshasha": "3f41391b5cf93ecc45dc61efa63542ae",
+            "resource": "hats0239.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Petty Perkins hat",
+            "package": "Community Hats",
+            "reshasha": "33b9ed34a8b355f82c2c5ba119b36b05",
+            "resource": "hats0240.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Pilborg It Me hat",
+            "package": "Community Hats",
+            "reshasha": "b7a9a10a2a241cb8d599179ce0925c66",
+            "resource": "hats0241.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Sailor Steve hat",
+            "package": "Community Hats",
+            "reshasha": "9075449598d393a31bf237e8ad2497e5",
+            "resource": "hats0242.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Sweetroll hat",
+            "package": "Community Hats",
+            "reshasha": "860f7314010fed51111036810e760a1e",
+            "resource": "hats0243.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Taste The Rainbow hat",
+            "package": "Community Hats",
+            "reshasha": "61de2e4f0bc24ac7169e2e92a98a750e",
+            "resource": "hats0244.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Tux hat",
+            "package": "Community Hats",
+            "reshasha": "259199924a26c3a021420d5061eef463",
+            "resource": "hats0245.png"
+          },
+          {
+            "author": "Sweetrolled",
+            "name": "Undead Marah hat",
+            "package": "Community Hats",
+            "reshasha": "c9cad5ee0a6a9b36037de56edb0a374f",
+            "resource": "hats0246.png"
+          },
+          {
+            "author": "Sugawara",
+            "name": "Kn0vis hat",
+            "package": "Community Hats",
+            "reshasha": "d02c9c4ddfc8bf4db42e005c3405914f",
+            "resource": "hats0247.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Anya hat",
+            "package": "Community Hats",
+            "reshasha": "17c6e0e2d17f556cdb34701c11c25570",
+            "resource": "hats0248.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Pizza hat",
+            "package": "Community Hats",
+            "reshasha": "93693adeb0f3022205f47420418c8b47",
+            "resource": "hats0249.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Gaara hat",
+            "package": "Community Hats",
+            "reshasha": "1e5a6dd2cab5da800afd4b7a7d1c45ef",
+            "resource": "hats0250.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Hinata hat",
+            "package": "Community Hats",
+            "reshasha": "f47725b1756c3af43e010fc5bed3e2e6",
+            "resource": "hats0251.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "MartiMoo hat",
+            "package": "Community Hats",
+            "reshasha": "5b3c76b5b40f47046cabfd980e13d3fe",
+            "resource": "hats0252.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Roman hat",
+            "package": "Community Hats",
+            "reshasha": "e37b93b70459a934838c9aed424c38df",
+            "resource": "hats0253.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Purple Shark hat",
+            "package": "Community Hats",
+            "reshasha": "64dc9b641b276ef54eeda24fe5097091",
+            "resource": "hats0254.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Umbreon hat",
+            "package": "Community Hats",
+            "reshasha": "af55e3e0c91f97bb08fa5d347f5b6445",
+            "resource": "hats0255.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Virgil hat",
+            "package": "Community Hats",
+            "reshasha": "d2bd04901cc4248ec67934a2d0eb5909",
+            "resource": "hats0256.png"
+          },
+          {
+            "author": "Ghost_ejims",
+            "name": "Side Arms hat 2",
+            "package": "Community Hats",
+            "reshasha": "e02c1ea0dd04667132c734557a1bc43f",
+            "resource": "hats0257.png"
+          },
+          {
+            "author": "NightRaiderTea",
+            "name": "Rawbuhbuh hat",
+            "package": "NightRaiderTea Hats",
+            "reshasha": "110ab2cd7c0d1f93667e7639b143a5b7",
+            "resource": "hats0258.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "HeyMcGurk hat",
+            "package": "Community Hats",
+            "reshasha": "ec77d3fbc5f050b377f4462fe1139b36",
+            "resource": "hats0259.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Tuskspicious hat",
+            "package": "Community Hats",
+            "reshasha": "421a3e17ca5544437ded3da91e5e63bf",
+            "resource": "hats0260.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Bunnies hat",
+            "package": "Community Hats",
+            "reshasha": "ab599198528f93276dc3c3f930643dba",
+            "resource": "hats0261.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Mushroom hat",
+            "package": "Community Hats",
+            "reshasha": "fdd93a17e51232d6ea78ab1af25fb375",
+            "resource": "hats0262.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Red Panda hat",
+            "package": "Community Hats",
+            "reshasha": "b7db97598ba971c3596317cb189bd965",
+            "resource": "hats0263.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Wizard hat",
+            "package": "Community Hats",
+            "reshasha": "1eb5cb5ae4fc6ef0be8046cb98e58189",
+            "resource": "hats0264.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "Courtilly hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "0541f637e70c62a2e082e60196950920",
+            "resource": "hats0265.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Mods hat",
+            "package": "Community Hats",
+            "reshasha": "3f4b59d4cdb5e8c1cc111b18ef26bd6f",
+            "resource": "hats0266.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "NoiBat hat",
+            "package": "Community Hats",
+            "reshasha": "64809e689b9e909183fa0ab60a4580c5",
+            "resource": "hats0267.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Shmuelzys Piss Bucket hat",
+            "package": "Community Hats",
+            "reshasha": "a5a66cc56ab0caf2655ff4e3140ff16c",
+            "resource": "hats0268.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Zavvygamer hat",
+            "package": "Community Hats",
+            "reshasha": "8a88316f813c5a2184971e428d2b8a16",
+            "resource": "hats0269.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Bill Cipher hat",
+            "package": "Community Hats",
+            "reshasha": "1b4198fe1d079b65a24054a4493c22de",
+            "resource": "hats0270.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Blossom hat",
+            "package": "Community Hats",
+            "reshasha": "6b38a1f90ab355bf0f88249fbc683857",
+            "resource": "hats0271.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Bubbles hat",
+            "package": "Community Hats",
+            "reshasha": "026b60d2bda3897b576408d71f0969c5",
+            "resource": "hats0272.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Buttercup hat",
+            "package": "Community Hats",
+            "reshasha": "67d0f451aad1df15190e49c3393bdd2b",
+            "resource": "hats0273.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Dell hat",
+            "package": "Community Hats",
+            "reshasha": "d5499089823d68806db22aa2c4cd1747",
+            "resource": "hats0274.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Gengar hat",
+            "package": "Community Hats",
+            "reshasha": "9142c953962770cf645845c9fcb21291",
+            "resource": "hats0275.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Grumpy Cat hat",
+            "package": "Community Hats",
+            "reshasha": "485cca250d36e86d4b2850eb65419969",
+            "resource": "hats0276.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Ksmac3 hat",
+            "package": "Community Hats",
+            "reshasha": "5af5120bce2488a479d5bb5e9f2ea517",
+            "resource": "hats0277.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Pennywise hat",
+            "package": "Community Hats",
+            "reshasha": "7d75b9c49b4bc6554caf490e088424dc",
+            "resource": "hats0278.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Redneck hat",
+            "package": "Community Hats",
+            "reshasha": "8e543320821c392a6496c52439ec789d",
+            "resource": "hats0279.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Red Body hat",
+            "package": "Community Hats",
+            "reshasha": "10f5057d628d34fdc617319d3b12381f",
+            "resource": "hats0280.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Pink Body hat",
+            "package": "Community Hats",
+            "reshasha": "82a0b8de051da842009fe57150444961",
+            "resource": "hats0281.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Yellow Body hat",
+            "package": "Community Hats",
+            "reshasha": "c6bb8f5643996f44635665caf1d9ecd6",
+            "resource": "hats0282.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "Nogla hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "18dd93d22d6e2311d28890f32805a340",
+            "resource": "hats0283.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "Wildcat hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "32be63f08a10737de6244802255a943d",
+            "resource": "hats0284.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "Olive Kruzadar hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "bbdc51ccab3481af621f55c0c253ff72",
+            "resource": "hats0285.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "Red Kruzadar hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "651dd5b20d97dd136cb61fb820deef63",
+            "resource": "hats0286.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Koala hat",
+            "package": "Community Hats",
+            "reshasha": "fbd7f28a6a6a9440e7ab49a793196693",
+            "resource": "hats0287.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Raptor hat",
+            "package": "Community Hats",
+            "reshasha": "3bc26ae8a71ee59b105ee27700b38b18",
+            "resource": "hats0288.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Kangaroo hat",
+            "package": "Community Hats",
+            "reshasha": "d8d4ef31449a8a5a499cf99e8baf8e82",
+            "resource": "hats0289.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "HeckMuffins hat",
+            "package": "Community Hats",
+            "reshasha": "575d8ad0e522c6ac334cdd9d28dba7f7",
+            "resource": "hats0290.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "HecksAmphy hat",
+            "package": "Community Hats",
+            "reshasha": "5c6efe61947985f72d1d02c0be493f94",
+            "resource": "hats0291.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Ophidian hat",
+            "package": "Community Hats",
+            "reshasha": "dd718710ce3a85c2554ee6f18f6bd6c3",
+            "resource": "hats0292.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Rikiisnotaferet hat",
+            "package": "Community Hats",
+            "reshasha": "60da4a7176ce2bbb7750ce5a9c723414",
+            "resource": "hats0293.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "SpiceRat hat",
+            "package": "Community Hats",
+            "reshasha": "34bace5d3b546f32e857575fcab99e04",
+            "resource": "hats0294.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Spicesjolt hat",
+            "package": "Community Hats",
+            "reshasha": "52614d2dc62b889a524c1b566faa2f2a",
+            "resource": "hats0295.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "RicKafe hat",
+            "package": "Community Hats",
+            "reshasha": "d11ade376f3047b583dd2a24a96224e6",
+            "resource": "hats0296.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Caracupcake hat",
+            "package": "Community Hats",
+            "reshasha": "57466df827a7fe842fcf3173bdc97eb7",
+            "resource": "hats0297.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Cosmicara hat",
+            "package": "Community Hats",
+            "reshasha": "1a97746a3404e954caa47b0e8cc06d44",
+            "resource": "hats0298.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Crabcake hat",
+            "package": "Community Hats",
+            "reshasha": "24fe5ce6780aae5d0e1120901b01e2d5",
+            "resource": "hats0299.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "McMayhem hat",
+            "package": "Community Hats",
+            "reshasha": "46bbc0d0626fab86ef794796a7cbd0bd",
+            "resource": "hats0300.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "MissJersey hat",
+            "package": "Community Hats",
+            "reshasha": "9f3b203c9497ad3408fabdbf9b17a025",
+            "resource": "hats0301.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Quonk Gun hat",
+            "package": "Community Hats",
+            "reshasha": "22b37ff31ac2d663428dd17216b89a47",
+            "resource": "hats0302.png"
+          },
+          {
+            "author": "Sarinjin",
+            "name": "SlackATK hat",
+            "package": "Sarinjin Hats",
+            "reshasha": "e92ae0b471ea08c6fbc069c2ecfcdb4c",
+            "resource": "hats0303.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "AstasApple hat",
+            "package": "Community Hats",
+            "reshasha": "3a27a117d31d931b3795925baf60d731",
+            "resource": "hats0304.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "CaptainStoppy hat",
+            "package": "Community Hats",
+            "reshasha": "bee63d414c0ba1f626d7df611d29bd2f",
+            "resource": "hats0305.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Casper hat",
+            "package": "Community Hats",
+            "reshasha": "3e655cb3d2faa2693e31d2938055fcc6",
+            "resource": "hats0306.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DawnsHotMama hat",
+            "package": "Community Hats",
+            "reshasha": "c50ca068def6c02fa538a378cffaa31a",
+            "resource": "hats0307.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DSCGluttony hat",
+            "package": "Community Hats",
+            "reshasha": "23b660d865a1bfdb3c60a6b27d22adf1",
+            "resource": "hats0308.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "FairysBlueFox hat",
+            "package": "Community Hats",
+            "reshasha": "383b2acbf3125fe7335234fa3d81e1c6",
+            "resource": "hats0309.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Japanda hat",
+            "package": "Community Hats",
+            "reshasha": "c4fc52b9452bd1864cbdd28be58c5786",
+            "resource": "hats0310.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Lanaboo hat",
+            "package": "Community Hats",
+            "reshasha": "941f82e84d7a4cdcdc68a0b1739667e1",
+            "resource": "hats0311.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Panda Pride hat",
+            "package": "Community Hats",
+            "reshasha": "5fa9e25b44bc0a0399d52a78ed4c15d1",
+            "resource": "hats0312.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Shiny Psyduck hat",
+            "package": "Community Hats",
+            "reshasha": "d877d2726204cbf40b35cd1f0d5fe772",
+            "resource": "hats0313.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Snorlax hat",
+            "package": "Community Hats",
+            "reshasha": "ec5dd1d913ced37dbaf07c23d6da14a6",
+            "resource": "hats0314.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Tessany Beauty hat",
+            "package": "Community Hats",
+            "reshasha": "c4ee5a3c464af2cdd8b1a52848f19e4a",
+            "resource": "hats0315.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Xallysahoney hat",
+            "package": "Community Hats",
+            "reshasha": "b63d201a21178e54c03fa9b9faa797ce",
+            "resource": "hats0316.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Shmuelzy hat ",
+            "package": "Community Hats",
+            "reshasha": "ca4c6b562949cbe6832dffb6962b9e67",
+            "resource": "hats0317.png"
+          },
+          {
+            "author": "Rum",
+            "name": "Inmouth hat ",
+            "package": "Rum Hats",
+            "reshasha": "1a98b3703aaae11ee973cd84cba0762d",
+            "resource": "hats0318.png"
+          },
+          {
+            "author": "Rum",
+            "name": "Teeth hat ",
+            "package": "Rum Hats",
+            "reshasha": "8bfe6422918f0f8a0d5dae35740508f1",
+            "resource": "hats0319.png"
+          },
+          {
+            "author": "Rum",
+            "name": "Thing hat ",
+            "package": "Rum Hats",
+            "reshasha": "59b0063559ada1aca7f7a80ebddc1ba0",
+            "resource": "hats0320.png"
+          },
+          {
+            "author": "Rum",
+            "name": "Tongue hat ",
+            "package": "Rum Hats",
+            "reshasha": "3366c87e0da1a29046ffa0da523c6d2d",
+            "resource": "hats0321.png"
+          },
+          {
+            "author": "Rum",
+            "name": "Xeno hat ",
+            "package": "Rum Hats",
+            "reshasha": "4e603e2ce57af3188fcadd9ffabce4f9",
+            "resource": "hats0322.png"
+          },
+          {
+            "author": "Ghost_ejims",
+            "name": "Side Arms hat 2 alt",
+            "package": "Community Hats",
+            "reshasha": "ec67562201d337a0ce69dd25342f9ea9",
+            "resource": "hats0323.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Basedkm hat ",
+            "package": "Community Hats",
+            "reshasha": "7e2206fa8bb3ab98bfcf94118380f281",
+            "resource": "hats0324.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "CaspersGrovyle hat ",
+            "package": "Community Hats",
+            "reshasha": "50cf1418e1aee09cf9af35f4dcbdaca3",
+            "resource": "hats0325.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "CowboyMav hat ",
+            "package": "Community Hats",
+            "reshasha": "327a313fe619b2150b5634db12b9fe99",
+            "resource": "hats0326.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DigDuck hat ",
+            "package": "Community Hats",
+            "reshasha": "042dafd6cf9aca973a6e5fe1c77804e2",
+            "resource": "hats0327.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "DougDimadome hat ",
+            "package": "Community Hats",
+            "reshasha": "580322590495d6acdb3715dae3012ba8",
+            "resource": "hats0328.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "JapandasSkitty hat ",
+            "package": "Community Hats",
+            "reshasha": "e78afa9f4780a72642cef01694da266f",
+            "resource": "hats0329.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Magikarp hat ",
+            "package": "Community Hats",
+            "reshasha": "ef1a814a16a9d9faecc25baed1782a1d",
+            "resource": "hats0330.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Nidoking hat ",
+            "package": "Community Hats",
+            "reshasha": "965340c78f576b2322c7f5838cc8cf09",
+            "resource": "hats0331.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "QuirtysPolywhirl hat ",
+            "package": "Community Hats",
+            "reshasha": "78b66736cc6826ea24bc48dbeb5d245d",
+            "resource": "hats0332.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Salamence hat ",
+            "package": "Community Hats",
+            "reshasha": "3aac52ecad86fa99213f30bcd8ec6942",
+            "resource": "hats0333.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "WolvsMimikyu hat ",
+            "package": "Community Hats",
+            "reshasha": "f0e7df81309dd0e59545650601acd14e",
+            "resource": "hats0334.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "CoriKasarak hat ",
+            "package": "Community Hats",
+            "reshasha": "744f89e48ef455d7cb17a218411ebd59",
+            "resource": "hats0335.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Jigglypuff hat ",
+            "package": "Community Hats",
+            "reshasha": "afad9f032921071c1cb94a1d47b9f431",
+            "resource": "hats0336.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "KojiSkunk hat ",
+            "package": "Community Hats",
+            "reshasha": "1df5dbc66a25a137fceb935cdb351a75",
+            "resource": "hats0337.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Wailord hat ",
+            "package": "Community Hats",
+            "reshasha": "24c8296443def58f097f939368fdc9aa",
+            "resource": "hats0338.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Boar hat ",
+            "package": "Community Hats",
+            "reshasha": "a2b9723d82ac413f19d594ad969ec48f",
+            "resource": "hats0339.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Creepy Doll hat ",
+            "package": "Community Hats",
+            "reshasha": "30eb60b9eeb2b26c2a4013c469500af1",
+            "resource": "hats0340.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Raven hat ",
+            "package": "Community Hats",
+            "reshasha": "2e9271d5be823b875f80eb59df99ec66",
+            "resource": "hats0341.png"
+          },
+          {
+            "author": "Pigoletto",
+            "name": "Trenchcoat hat ",
+            "package": "Community Hats",
+            "reshasha": "52e398a7f3123287a423ac95a642901e",
+            "resource": "hats0342.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Blaziken hat ",
+            "package": "Community Hats",
+            "reshasha": "35cf86c038136c9407bc37c07d17d476",
+            "resource": "hats0343.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Carriemello hat ",
+            "package": "Community Hats",
+            "reshasha": "14d24b3a9c88ebb2f4bf5adc21c62686",
+            "resource": "hats0344.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "FBI Monkey hat ",
+            "package": "Community Hats",
+            "reshasha": "c9769c8ea0a6af13dcda66f363b69b9a",
+            "resource": "hats0345.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "GooseTroop hat ",
+            "package": "Community Hats",
+            "reshasha": "47143c0b58bae813cf3cbdc8436095e0",
+            "resource": "hats0346.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Jerry hat ",
+            "package": "Community Hats",
+            "reshasha": "4c0d6b701f44091ee1946d7499bdaad6",
+            "resource": "hats0347.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Loweye hat ",
+            "package": "Community Hats",
+            "reshasha": "a6440b669d2842283375fa47dfa62557",
+            "resource": "hats0348.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Lucas hat ",
+            "package": "Community Hats",
+            "reshasha": "bdb4bcd74048ffbe8cef1a4520b38f05",
+            "resource": "hats0349.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "NewHeckMuffins hat ",
+            "package": "Community Hats",
+            "reshasha": "37b8159059104ae6844ee569bd3a3c10",
+            "resource": "hats0350.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "OogieBoogie hat ",
+            "package": "Community Hats",
+            "reshasha": "021d13bf5ee7f920ca6f389c67da4289",
+            "resource": "hats0351.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "RikisFerret hat ",
+            "package": "Community Hats",
+            "reshasha": "11c7d28a6f2e65f1f737d2822307d17e",
+            "resource": "hats0352.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Tinkerbell hat ",
+            "package": "Community Hats",
+            "reshasha": "f5ae40adbb53d1025a23e7797fa2a254",
+            "resource": "hats0353.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Troubella hat ",
+            "package": "Community Hats",
+            "reshasha": "342fb7c77e3fb6a6dbc9feb35911f716",
+            "resource": "hats0354.png"
+          },
+          {
+            "author": "Ophidian",
+            "name": "Valak hat ",
+            "package": "Community Hats",
+            "reshasha": "c297c2d1a4192e7752d060aae13dd450",
+            "resource": "hats0355.png"
+          }
     ]
 }
