@@ -4078,26 +4078,6 @@
             "reshashc": "1737b5e32ebb988e61ed68a483e211c1",
             "resource": "katarina.png"
         },
-        { 
-           "author": "mayabakuma",
-            "climbresource": "ipad_climb.png",
-            "condition": "None",
-            "name": "ipad kid",
-            "package": "Community Hats",
-            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
-            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
-            "resource": "ipad.png"
-        },
-        { 
-           "author": "mayabakuma",
-            "climbresource": "ipad_climb.png",
-            "condition": "None",
-            "name": "ipad kid",
-            "package": "Community Hats",
-            "reshasha": "196e1a9d78e28bb5c3e4ff3b63f7a226",
-            "reshashc": "196e1a9d78e28bb5c3e4ff3b63f7a226",
-            "resource": "ipad.png"
-        },
         {
             "author": "Sou",
             "climbresource": "Sou_climb.png",
