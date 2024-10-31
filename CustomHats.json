@@ -6434,19 +6434,6 @@
         {
           "adaptive": true,
           "author": "Cheetah",
-          "climbresource": "Cobra_adaptive_climb.png",
-          "backresource": "Cobra_adaptive_back.png",
-          "condition": "None",
-          "name": "Cobra",
-          "package": "Stellar Roles Hats",
-          "reshasha": "930bf33963763ebf7ce9892a13bfecf5",
-          "reshashc": "ea49881d666b43cd70e4213fb04f31fc",
-          "reshashb": "e90b0aafbeb3dc43a91ec61da81fae3b",
-          "resource": "Cobra_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
           "backresource": "Cheetah_back_adaptive.png",
           "condition": "None",
           "name": "Cheetah",
@@ -7020,32 +7007,6 @@
           "reshashb": "fe87d82d89711a6c4a736a05307f841a",
           "reshashc": "03f00847dca9ef08d5d19b6c399a837d",
           "resource": "Raccoon_bounce.png"
-        },
-        {
-          "bounce": true,
-          "author": "Cheetah",
-          "climbresource": "RedPanda_climb.png",
-          "backresource": "RedPanda_back.png",
-          "condition": "None",
-          "name": "RedPanda",
-          "package": "Stellar Roles Hats",
-          "reshasha": "2eefbf982eff2fd61da68ebb6fa9ee53",
-          "reshashb": "18892243cfa07a5926193333e0bb8ca1",
-          "reshashc": "70239e1c44339017094435bba747dbdb",
-          "resource": "RedPanda_bounce.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
-          "climbresource": "OldMan_climb.png",
-          "backresource": "OldMan_adaptive_back.png",
-          "condition": "None",
-          "name": "OldMan",
-          "package": "Stellar Roles Hats",
-          "reshasha": "3a595905e05833eb386b992bbc113615",
-          "reshashb": "bcaa29a338536f44f6c940b5a889cbab",
-          "reshashc": "da18f9f3f4a2b6578495750475d85d9e",
-          "resource": "OldMan_adaptive.png"
         },
         {
           "adaptive": true,
