@@ -6749,16 +6749,6 @@
         },
         {
           "author": "SeaGirl",
-          "climbresource": "snail_climb.png",
-          "condition": "None",
-          "name": "Snail",
-          "package": "Stellar Roles Hats",
-          "reshasha": "f7b0be1fee43fcc402c41cd8660b79d1",
-          "reshashc": "c2f7ade7707c7b87b78b22a72f629374",
-          "resource": "snail_front.png"
-        },
-        {
-          "author": "SeaGirl",
           "condition": "None",
           "name": "CrazyChris576",
           "package": "Stellar Roles Hats",
