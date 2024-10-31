@@ -6417,14 +6417,6 @@
         {
           "author": "Seagirl",
           "condition": "None",
-          "name": "Sushi",
-          "package": "Stellar Roles Hats",
-          "reshasha": "c1aef5e4a98b6524d160e72eba409400",
-          "resource": "Sushi.png"
-        },
-        {
-          "author": "Seagirl",
-          "condition": "None",
           "name": "MoonCrown",
           "package": "Stellar Roles Hats",
           "reshasha": "3a3934ffe5649780d91b0fde6c704c36",
@@ -6464,28 +6456,6 @@
           "resource": "Cheetah_adaptive.png"
         },
         {
-          "adaptive": true,
-          "author": "Cheetah",
-          "backresource": "OTTER_adaptive_back.png",
-          "condition": "None",
-          "name": "Otter",
-          "package": "Stellar Roles Hats",
-          "reshasha": "138c28f30fa073306a97c038053e639f",
-          "reshashb": "7714bb75a1a4f5bb905b5d1b6a0b479d",
-          "resource": "OTTER_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
-          "backresource": "Dragon_back_adaptive.png",
-          "condition": "None",
-          "name": "Dragon",
-          "package": "Stellar Roles Hats",
-          "reshasha": "7aecb8c05a5be67cfd4d92bc762ebb5b",
-          "reshashb": "7469235b18582e71f25a1c5b556b8f72",
-          "resource": "Dragon_adaptive.png"
-        },
-        {
           "author": "Cheetah",
           "climbresource": "VDayTophat_climb.png",
           "backresource": "VDayTophat_back.png",
@@ -6523,18 +6493,6 @@
           "resource": "Fly1.png"
         },
         {
-          "author": "Cheetah",
-          "climbresource": "Sombrero_climb.png",
-          "backresource": "Sombrero_back.png",
-          "condition": "None",
-          "name": "Sombrero",
-          "package": "Stellar Roles Hats",
-          "reshasha": "701f3977ad355123b7ea30730e5f3d43",
-          "reshashc": "9f60a2929b2c5a783333843d1a0aaa79",
-          "reshashb": "740a194093f4b5af37790662ad1e645b",
-          "resource": "Sombrero.png"
-        },
-        {
           "adaptive": true,
           "author": "Cheetah",
           "climbresource": "Buggy_adaptive_climb.png",
@@ -6557,16 +6515,6 @@
           "reshasha": "68ca73fdd28ea912a5c8c9bc57e2141d",
           "reshashc": "b4d7a22dbdc9ca09ade4b98688cf008a",
           "resource": "Deer_adaptive.png"
-        },
-        {
-          "author": "Cheetah",
-          "climbresource": "Jester_climb.png",
-          "condition": "None",
-          "name": "Jester",
-          "package": "Stellar Roles Hats",
-          "reshasha": "45e4cb127d1b54ba15a0b1dc90964786",
-          "reshashc": "6e3445d78e60ff89992ecc3f89eb1799",
-          "resource": "Jester.png"
         },
         {
           "author": "Cheetah",
@@ -6609,19 +6557,6 @@
           "reshashc": "2f0220f0dc35485e0ac2c2c8b49ad50f",
           "reshashb": "2e083a5ad058a03181af2ad6f816b9b2",
           "resource": "Cthulu_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
-          "climbresource": "Dino_adaptive_climb.png",
-          "backresource": "Dino_adaptive_back.png",
-          "condition": "None",
-          "name": "Dino",
-          "package": "Stellar Roles Hats",
-          "reshasha": "9b8593c713e7c5f157c86d082be4fb84",
-          "reshashc": "0e93eb2c1f60594eecc1bf6f67b5ccb1",
-          "reshashb": "351791fb13f34b348a5adfa090ebac50",
-          "resource": "Dino_adaptive.png"
         },
         {
           "adaptive": true,
@@ -6723,19 +6658,6 @@
         {
           "adaptive": true,
           "author": "Cheetah",
-          "climbresource": "Fox_climb_adaptive.png",
-          "backresource": "Fox_adaptive_back.png",
-          "condition": "None",
-          "name": "Fox",
-          "package": "Stellar Roles Hats",
-          "reshasha": "338e22bd29fa908c3cb39e592f1b4c9d",
-          "reshashc": "3ac50101bbf692ca71177dcf9cad35f1",
-          "reshashb": "c0481c351e56024c2317f23783ea21f2",
-          "resource": "Fox_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
           "climbresource": "Imperus_climb_adaptive.png",
           "condition": "None",
           "name": "Imperus",
@@ -6767,17 +6689,6 @@
           "resource": "Gek_adaptive.png"
         },
         {
-          "adaptive": true,
-          "author": "Cheetah",
-          "backresource": "Owl_adaptive_back.png",
-          "condition": "None",
-          "name": "Owl",
-          "package": "Stellar Roles Hats",
-          "reshasha": "074f3fe60ba7ce6d5b8c9e556fd22f60",
-          "reshashb": "d27bd298f7d2daed25f92e29db3eef82",
-          "resource": "Owl_adaptive.png"
-        },
-        {
           "author": "Cheetah",
           "climbresource": "Corgi_climb.png",
           "flipresource": "Corgi_flip.png",
@@ -6801,19 +6712,6 @@
           "reshashc": "36eb61bf5d807c0a771005ab0837f70b",
           "reshashb": "6057eefaeb700ef274d32fadc598d049",
           "resource": "Elephant_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Mads",
-          "climbresource": "Umbrella_adaptive_climb.png",
-          "backresource": "Umbrella_back_adaptive.png",
-          "condition": "None",
-          "name": "Umbrella2",
-          "package": "Stellar Roles Hats",
-          "reshasha": "c7cd8617b81ba79cd3ad573e03360df8",
-          "reshashb": "457f9f87f62f334b878c24b9af330d23",
-          "reshashc": "2256de55f3690535b9dfea6ea587fb50",
-          "resource": "Umbrella_adaptive.png"
         },
         {
           "author": "Mads",
@@ -6913,18 +6811,6 @@
           "package": "Stellar Roles Hats",
           "reshasha": "1354067b41577e5398ab3877962990df",
           "resource": "JermRF.png"
-        },
-        {
-          "author": "Crayonvex",
-          "climbresource": "fish_climb.png",
-          "flipresource": "fish_flip.png",
-          "condition": "None",
-          "name": "Fish",
-          "package": "Stellar Roles Hats",
-          "reshasha": "e16aa67017152629ec9a1b3f111977a6",
-          "reshashc": "9da2515ae6c1b495d31d70da77c9394d",
-          "reshashf": "0c89bbe9a6748590eeb90e4844013d78",
-          "resource": "fish.png"
         },
         {
           "author": "Crayonvex",
@@ -7082,19 +6968,6 @@
           "resource": "cloaked_adaptive_bounce.png"
         },
         {
-          "adaptive": true,
-          "author": "Cheetah",
-          "climbresource": "squirrel_climb.png",
-          "backresource": "squirrel_adaptive_back.png",
-          "condition": "None",
-          "name": "Squirrel",
-          "package": "Stellar Roles Hats",
-          "reshasha": "898bf5509c34a2d669c5135b009a2a97",
-          "reshashb": "6d9c09292b69a817c3e109dc2e7944c4",
-          "reshashc": "3288bde892486f44686817a67c154055",
-          "resource": "squirrel_adaptive.png"
-        },
-        {
           "author": "Cheetah",
           "climbresource": "ZeViking_climb.png",
           "condition": "None",
@@ -7127,32 +7000,6 @@
         {
           "adaptive": true,
           "author": "Cheetah",
-          "climbresource": "Cow_adaptive_climb.png",
-          "backresource": "Cow_adaptive_back.png",
-          "condition": "None",
-          "name": "Cow",
-          "package": "Stellar Roles Hats",
-          "reshasha": "30b0eb12d2af0a5c2a8ec1092692799b",
-          "reshashb": "7876b074d33217348467fb0b4acd959b",
-          "reshashc": "820b553ae4f6e5f7180c5552eba503b7",
-          "resource": "Cow_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
-          "climbresource": "Demon_climb_adaptive.png",
-          "backresource": "Demon_adaptive_back.png",
-          "condition": "None",
-          "name": "Demon",
-          "package": "Stellar Roles Hats",
-          "reshasha": "b74accf3394a27a9e86bde398d6472a6",
-          "reshashb": "0a69c13626f9460a58b3f7e64da7d068",
-          "reshashc": "19606c3eb2d5fb41df2f691f8f49f354",
-          "resource": "Demon_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
           "climbresource": "Tuque_climb_adaptive.png",
           "condition": "None",
           "name": "Tuque",
@@ -7160,19 +7007,6 @@
           "reshasha": "8c7c730d6f2c17a1de5df190944227f8",
           "reshashc": "18f666583f29c00ef905870abf614d70",
           "resource": "Tuque_adaptive.png"
-        },
-        {
-          "adaptive": true,
-          "author": "Cheetah",
-          "climbresource": "Wolf_climb_adaptive.png",
-          "backresource": "Wolf_adaptive_back.png",
-          "condition": "None",
-          "name": "Wolf",
-          "package": "Stellar Roles Hats",
-          "reshasha": "c9bdcf1a52011feab1dc5fc4794ae827",
-          "reshashb": "afa42209eb2655490655878eb233712e",
-          "reshashc": "99fa5bec52a952de12faaef48f77aed1",
-          "resource": "Wolf_adaptive.png"
         },
         {
           "bounce": true,
