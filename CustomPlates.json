@@ -173,6 +173,41 @@
       "package": "Community Nameplates",
       "reshasha": "4c358f29108549aa929d5ca914ae0eb7",
       "resource": "Vital.png"
+    },
+    {
+      "author": "Liutic",
+      "name": "Laying Paifu",
+      "package": "Community Nameplates",
+      "reshasha": "709a00607f59de10736284632a68e770",
+      "resource": "laying_paifu.png"
+    },
+    {
+      "author": "veliar",
+      "name": "Shy Paifu",
+      "package": "Community Nameplates",
+      "reshasha": "772e9e6ce9698e91a039aa48b6e7461e",
+      "resource": "shy_paifu.png"
+    },
+    {
+      "author": "PinKitik",
+      "name": "Paifu",
+      "package": "Community Nameplates",
+      "reshasha": "6cee30f95a9c23e8749f73fed5109f05",
+      "resource": "paifu.png"
+    },
+    {
+      "author": "MiniCrafts56",
+      "name": "Paifu Likes Killing",
+      "package": "Community Nameplates",
+      "reshasha": "3c59d3538d9a42ba4c3a3a6fa09a439b",
+      "resource": "paifu_likes_killing.png"
+    },
+    {
+      "author": "vanilla-chan",
+      "name": "Paifu In A Cup",
+      "package": "Community Nameplates",
+      "reshasha": "65d5b44117120eb61fc20369df98b4bb",
+      "resource": "paifu_in_a_cup.png"
     }
   ]
 }
