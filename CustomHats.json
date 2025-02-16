@@ -7059,6 +7059,14 @@
           "reshasha": "6081d5b55a7aa1b5f3110a3ff57ba457",
           "reshashc": "2348fbf2551d3b4a3471ca55356103e6",
           "resource": "Sheriff_bounce.png"
+        },
+        {
+          "author": "Whitmore",
+          "condition": "None",
+          "name": "Peaky Blinders",
+          "package": "Outranging Hats",
+          "reshasha": "4d0d7056a03f85950061640ef14bc175",
+          "resource": "02_peaky_blinders.png"
         }
     ]
 }
