@@ -7067,6 +7067,38 @@
           "package": "Outranging Hats",
           "reshasha": "4d0d7056a03f85950061640ef14bc175",
           "resource": "02_peaky_blinders.png"
+        },
+        {
+          "author": "Whitmore",
+          "condition": "None",
+          "name": "Eric Cartman Evil",
+          "package": "Outranging Hats",
+          "reshasha": "e78f96c10ff64ffcaeee43656ea3b9dc",
+          "resource": "eric_cartman_evil.png"
+        },
+        {
+          "author": "Whitmore",
+          "condition": "None",
+          "name": "Eric Cartman King",
+          "package": "Outranging Hats",
+          "reshasha": "3dc428f33cb5afcfdfbd7703f0d31935",
+          "resource": "eric_cartman_king.png"
+        },
+        {
+          "author": "Whitmore",
+          "condition": "None",
+          "name": "Skuf",
+          "package": "Outranging Hats",
+          "reshasha": "663f2159b35cf563d9a3ea4c9e41629c",
+          "resource": "skuf.png"
+        },
+        {
+          "author": "Whitmore",
+          "condition": "None",
+          "name": "Blade Runner",
+          "package": "Outranging Hats",
+          "reshasha": "352d9e291175738f3328c9f6364f08aa",
+          "resource": "blade_runner.png"
         }
     ]
 }
